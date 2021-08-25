@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(28, 32, 34);
+    text-align: center;
+ }   
+    
+
+
+#con{
+    background-color: rgb(112, 114, 231);
+    color: white;
+    height: 100px;
+    width: 100%;
+    margin: 0 auto;
+}
+#clock{
+    background-color: rgba(243, 220, 92, 0.712);
+    font-size: 50px;
+    color:white;
+    height: 80px;
+    width: 400px;
+    margin: 0 auto;
+    
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid rgba(2, 0, 0, 0.767);
+
+  }
+  input, textarea, select, button {
+    width : 150px;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
